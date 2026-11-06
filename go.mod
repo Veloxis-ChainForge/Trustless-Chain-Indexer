@@ -1,9 +1,9 @@
 module github.com/Trustless-Work/Indexer
 
-go 1.25.0
+go 1.26.0
 
 require (
-	github.com/caarlos0/env/v11 v11.4.1
+	github.com/caarlos0/env/v11 v11.4.2
 	github.com/prometheus/client_golang v1.17.0
 	github.com/rabbitmq/amqp091-go v1.11.0
 	github.com/sirupsen/logrus v1.9.3
